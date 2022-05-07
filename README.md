@@ -1,2 +1,2 @@
 # nav-menu
-This repository contains all nav menu code
+This code makes a sliding nav menu
